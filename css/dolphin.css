@@ -23,5 +23,6 @@ html {
 @media screen and (min-width: 642px) and (min-width: 1090px) {
   #dolphin {
     top: 600px;
+    
   }
 }
